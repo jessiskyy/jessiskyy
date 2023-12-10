@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jessiskyy
+- 👋 Hi, I’m Jessica Maddux
 - 👀 I’m interested in learning to code and software engineering
-- 🌱 I’m currently learning html!
+- 🌱 I’m currently learning html, css and javascript!
 - 💞️ I’m looking to collaborate on anything that will open the doors to tech world!
 - 📫 How to reach me jessiskyy06@hotmail.com
 
